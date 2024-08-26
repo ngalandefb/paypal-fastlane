@@ -1,0 +1,79 @@
+.env
+
+### MacOS ###
+.DS_Store
+
+### Node.js ###
+node_modules/
+
+### .NET ###
+**.sln
+**.http
+bin/
+obj/
+.fake
+
+### Java ###
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### Python ###
+**/venv**/
+**/__pycache__/
+
+### Ruby ###
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/tmp/
+.byebug_history
+.dat*
+.repl_history
+build/
+*.bridgesupport
+build-iPhoneOS/
+build-iPhoneSimulator/
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+.rvmrc
+
