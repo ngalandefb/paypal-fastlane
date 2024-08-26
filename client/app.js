@@ -288,4 +288,4 @@ async function initFastlane () {
   }
 }
 
-await initFastlane()
+initFastlane()
