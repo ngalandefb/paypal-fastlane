@@ -34,5 +34,10 @@ npm install
 ```
 
 ```sh
-npm run start
+npm run start-dev
 ```
+
+### Screenshot
+
+
+![Screenshot 2024-08-26 at 11 46 54 AM](https://github.com/user-attachments/assets/d154435e-fb3f-4938-9abd-c8fc49243aca)
